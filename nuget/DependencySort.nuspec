@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <id>DependencySort</id>
+    <version>1.0</version>
+    <authors>Harry McIntyre</authors>
+    <owners>Harry McIntyre</owners>
+    <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
+    <projectUrl>https://github.com/mcintyre321/DependencySort</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Allows you to topologically sort a list of objects by defining dependencies between them e.g. sorting build tasks or rules in a Chain Of Responibility</description>
+    <tags>Sorting</tags>    
+  </metadata>
+</package>
